@@ -2,4 +2,4 @@
 all :
 	blblblb
 	dsdsf
-	echo "Fail"
+	echo "Failz"
