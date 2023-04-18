@@ -1,0 +1,4 @@
+
+all :
+	blblblb
+	echo "Hello"
