@@ -1,4 +1,4 @@
 
 all :
-	echo "Failzss"
+	echo "Failzssdc"
 	exit 1
