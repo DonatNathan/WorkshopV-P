@@ -1,3 +1,3 @@
 
 all :
-	echo "Je s'appelle grooteeeee"
+	echo "Je s'appelle grooeteeeee"
