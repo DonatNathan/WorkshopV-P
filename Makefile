@@ -1,5 +1,4 @@
 
 all :
-	blblblb
-	dsdsf
 	echo "Failz"
+	exit 1
