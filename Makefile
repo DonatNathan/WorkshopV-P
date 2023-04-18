@@ -1,4 +1,4 @@
 
 all :
 	blblblb
-	echo "Hello"
+	echo "Fail"
